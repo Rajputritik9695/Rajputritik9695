@@ -33,6 +33,12 @@
 
 ---
 
+### 🌱 Currently Exploring
+
+- Multi-agent orchestration frameworks (CrewAI, AutoGen, LangGraph)
+- Advanced RAG techniques — hybrid search, re-ranking, agentic RAG
+- Scaling n8n workflows into production-grade backend services
+
 ## 💻 Tech Stack & Tools
 
 <table>
@@ -100,6 +106,9 @@
 > * Created an AI email assistant automating 70% of email drafting while maintaining brand voice.
 
 ---
+### ✍️ Writing & Updates
+
+- [AI-Powered Recruitment Platform — project breakdown](https://www.linkedin.com/posts/ritik-singh-rajput-49b964319_a-while-back-i-shared-an-ai-powered-resume-activity-7484583190423040000-ggAJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDD_7cBQRUHu3DGQBoUIZaqSzkRiFFpGsk) — LinkedIn post walking through the multi-role hiring rubric and routing logic
 
 ## 📊 GitHub Analytics
 
@@ -110,5 +119,10 @@
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+
+  ### 📊 Top Languages
+
+![](https://raw.githubusercontent.com/Rajputritik9695/github-stats-data/generated/overview.svg)
+![](https://raw.githubusercontent.com/Rajputritik9695/github-stats-data/generated/languages.svg)
+
+
