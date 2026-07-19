@@ -1,6 +1,10 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajputritik9695&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+I'm+Ritik+Singh+Rajput+👋;AI+Engineer+%7C+Automation+%7C+Agentic+AI;Building+Scalable+LLM+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+I%27m+Ritik+Singh+Rajput;AI+Engineer+%7C+Automation+%7C+Agentic+AI;Building+Scalable+LLM+Applications" alt="Typing SVG" />
   </a>
 </div>
 
@@ -102,6 +106,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajputritik9695&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" alt="Ritik's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajputritik9695&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="Ritik's GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajputritik9695&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" alt="Ritik's Top Languages" width="48%" />
 </div>
 
 <br>
